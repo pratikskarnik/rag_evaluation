@@ -1,0 +1,9 @@
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain-core
+chromadb
+numpy
+python-dotenv
+langchain-groq
+groq
