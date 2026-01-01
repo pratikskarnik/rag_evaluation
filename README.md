@@ -3,6 +3,14 @@
 This folder documents the RAG (Retrieval-Augmented Generation) evaluation script defined in `app.py` at the root of the repository. The script builds a small in-memory knowledge base, runs RAG over it using LangChain + Chroma, and then evaluates both retrieval quality and answer quality.
 
 ---
+ 
+## YouTube Demo
+
+Watch the full walkthrough and explanation of this project here:
+
+https://youtu.be/5syl6THrTGI
+
+---
 
 ## 1. High-level overview of `app.py`
 
